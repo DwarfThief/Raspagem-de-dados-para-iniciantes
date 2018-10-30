@@ -22,7 +22,7 @@ Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, v
 
 1. [Aprendendo a extrair o texto de um Site](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Aprendendo%20a%20extrair%20o%20texto%20de%20um%20Site.ipynb)
 2. [Primeira Spider](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Primeira%20Spider.ipynb) 
-3. [Raspagem múltipla](https://github.com/DwarfThief/Raspagem%20%multipla.ipynb)
+3. [Raspagem múltipla](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Raspagem%20multipla.ipynb)
 
 ## Materiais de estudo:
 
