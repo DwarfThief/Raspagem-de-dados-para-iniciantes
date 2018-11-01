@@ -24,7 +24,7 @@ Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, v
 2. [Primeira Spider](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Primeira%20Spider.ipynb) 
 3. [Raspagem múltipla](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Raspagem%20multipla.ipynb)
 4. [Navegando entre paginas](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Navegando%20entre%20paginas.ipynb)
-5. [Coletando mais detalhes](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Coletando%20%mais%20detalhes.ipynb)
+5. [Coletando mais detalhes](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/teste/Coletando%20mais%20detalhes.ipynb)
 
 ## Materiais de estudo:
 
