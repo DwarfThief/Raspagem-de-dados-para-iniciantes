@@ -28,12 +28,15 @@ Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, v
 
 ## Materiais de estudo:
 
+#### Blogs:
+[The Scraping Hub](https://blog.scrapinghub.com/) **[ENG]**
+
 #### Livros:
-* [Web Scraping with Python, Ryan Mitchell](http://shop.oreilly.com/product/0636920078067.do)
+* [Web Scraping with Python, Ryan Mitchell](http://shop.oreilly.com/product/0636920078067.do) **[ENG]**
 
 #### Documentação:
-* [Python](https://docs.python.org/3/)
-* [Requests](http://docs.python-requests.org/en/master/)
-* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-* [Jupyter Notebooks](http://jupyter.org/documentation)
-* [Scrapy](https://doc.scrapy.org/en/latest/intro/tutorial.html)
+* [Python](https://docs.python.org/3/) **[ENG]**
+* [Requests](http://docs.python-requests.org/en/master/) **[ENG]**
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) **[ENG]**
+* [Jupyter Notebooks](http://jupyter.org/documentation) **[ENG]**
+* [Scrapy](https://doc.scrapy.org/en/latest/intro/tutorial.html) **[ENG]**
