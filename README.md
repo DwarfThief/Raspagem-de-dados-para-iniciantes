@@ -40,3 +40,8 @@ Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, v
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) **[ENG]**
 * [Jupyter Notebooks](http://jupyter.org/documentation) **[ENG]**
 * [Scrapy](https://doc.scrapy.org/en/latest/intro/tutorial.html) **[ENG]**
+
+#### Podcasts:
+* [Episódio 005: Serenata de Amor](http://pizzadedados.com/serenata-de-amor/)
+* [Episódio 009: Sobre Crawlers e Scrapers](http://pizzadedados.com/episodio-009/)
+* [Episódio 011: Bots Políticos](http://pizzadedados.com/episodio-011/)
