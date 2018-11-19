@@ -1,8 +1,10 @@
-# Raspagem de dados para iniciantes
+![](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+# Raspagem de dados para iniciantes :page_facing_up:
 
 Esse repositório foi construido para ajudar qualquer interessado pela área de Raspagem de dados, todo o repositório sera em PT-BR, mas os links/documentação podem estar em inglês (compartilhe se você possuir algo traduzido).
 
-## Instalação
+## Instalação :floppy_disk:
 
 As principais libs que vamos usar aqui são:
 * requests
@@ -18,7 +20,7 @@ As principais libs que vamos usar aqui são:
 
 Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, visite a [documentação](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html).
 
-## Rota para o estudo:
+## Rota para o estudo: :mortar_board:
 
 1. [Aprendendo a extrair o texto de um Site](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Aprendendo%20a%20extrair%20o%20texto%20de%20um%20Site.ipynb)
 2. [Primeira Spider](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Primeira%20Spider.ipynb) 
@@ -26,22 +28,24 @@ Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, v
 4. [Navegando entre paginas](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Navegando%20entre%20paginas.ipynb)
 5. [Coletando mais detalhes](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Coletando%20mais%20detalhes.ipynb)
 
-## Materiais de estudo:
+## Materiais de estudo: 
 
-#### Blogs:
+#### Blogs: :computer:
 [The Scraping Hub](https://blog.scrapinghub.com/) **[ENG]**
 
-#### Livros:
+#### Livros: :books:
 * [Web Scraping with Python, Ryan Mitchell](http://shop.oreilly.com/product/0636920078067.do) **[ENG]**
 
-#### Documentação:
+#### Documentação: :scroll:
 * [Python](https://docs.python.org/3/) **[ENG]**
 * [Requests](http://docs.python-requests.org/en/master/) **[ENG]**
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) **[ENG]**
 * [Jupyter Notebooks](http://jupyter.org/documentation) **[ENG]**
 * [Scrapy](https://doc.scrapy.org/en/latest/intro/tutorial.html) **[ENG]**
 
-#### Podcasts:
+#### Podcasts: :headphones: :musical_note:
 * [Episódio 005: Serenata de Amor](http://pizzadedados.com/serenata-de-amor/)
 * [Episódio 009: Sobre Crawlers e Scrapers](http://pizzadedados.com/episodio-009/)
 * [Episódio 011: Bots Políticos](http://pizzadedados.com/episodio-011/)
+
+#### Vídeos: :tv:
