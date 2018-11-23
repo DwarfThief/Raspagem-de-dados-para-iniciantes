@@ -27,6 +27,7 @@ Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, v
 3. [Raspagem múltipla](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Raspagem%20multipla.ipynb)
 4. [Navegando entre paginas](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Navegando%20entre%20paginas.ipynb)
 5. [Coletando mais detalhes](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Coletando%20mais%20detalhes.ipynb)
+6. [Raspagem em site com Infinite Scroll](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Raspagem%20em%20site%20com%20Infinite%20Scroll.ipynb)
 
 ## Materiais de estudo: 
 
