@@ -20,7 +20,7 @@ As principais libs que vamos usar aqui são:
 
 Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, visite a [documentação](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html).
 
-## Rota para o estudo: :mortar_board:
+## Trilha para o tutorial: :mortar_board:
 
 1. [Aprendendo a extrair o texto de um Site](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Aprendendo%20a%20extrair%20o%20texto%20de%20um%20Site.ipynb)
 2. [Primeira Spider](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Primeira%20Spider.ipynb) 
@@ -32,7 +32,7 @@ Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, v
 ## Materiais de estudo: 
 
 #### Blogs: :computer:
-[The Scraping Hub](https://blog.scrapinghub.com/) **[ENG]**
+* [The Scraping Hub](https://blog.scrapinghub.com/) **[ENG]**
 
 #### Livros: :books:
 * [Web Scraping with Python, Ryan Mitchell](http://shop.oreilly.com/product/0636920078067.do) **[ENG]**
