@@ -1,0 +1,12 @@
+setup.py
+Cloud/__init__.py
+Cloud/items.py
+Cloud/middlewares.py
+Cloud/pipelines.py
+Cloud/settings.py
+Cloud/spiders/__init__.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
