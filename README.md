@@ -6,17 +6,19 @@ Esse repositório foi construido para ajudar qualquer interessado pela área de 
 
 ## Instalação :floppy_disk:
 
+Uso Python versão 3.7
+
 As principais libs que vamos usar aqui são:
 * requests
 * bs4 (BeautifulSoup)
 * Scrapy
 * Jupyter Notebooks
  
- Para isso você só precisa instalar:
+Para isso você só precisa instalar algumas bibliotecas, no seu Terminal escreva:
  
- `pip install jupyter requests bs4 scrapy` (Versão do Python 3.X)
+`pip install jupyter requests bs4 scrapy` 
  
- ### Jupyter notebooks
+### Jupyter notebooks
 
 Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, visite a [documentação](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html).
 
@@ -45,8 +47,8 @@ Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, v
 * [Scrapy](https://doc.scrapy.org/en/latest/intro/tutorial.html) **[ENG]**
 
 #### Podcasts: :headphones: :musical_note:
-* [Episódio 005: Serenata de Amor](http://pizzadedados.com/serenata-de-amor/)
-* [Episódio 009: Sobre Crawlers e Scrapers](http://pizzadedados.com/episodio-009/)
-* [Episódio 011: Bots Políticos](http://pizzadedados.com/episodio-011/)
+* [Episódio 005: Serenata de Amor](http://pizzadedados.com/serenata-de-amor/) **[PT-BR]**
+* [Episódio 009: Sobre Crawlers e Scrapers](http://pizzadedados.com/episodio-009/) **[PT-BR]**
+* [Episódio 011: Bots Políticos](http://pizzadedados.com/episodio-011/) **[PT-BR]**
 
 #### Vídeos: :tv:
