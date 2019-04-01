@@ -53,3 +53,4 @@ Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, v
 * [Episódio 011: Bots Políticos](http://pizzadedados.com/episodio-011/) **[PT-BR]**
 
 #### Vídeos: :tv:
+:D
