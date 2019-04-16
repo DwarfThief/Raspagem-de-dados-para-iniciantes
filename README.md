@@ -2,7 +2,7 @@
 
 # Raspagem de dados para iniciantes :page_facing_up:
 
-Esse repositório foi construido para ajudar qualquer interessado pela área de Raspagem de dados, todo o repositório sera em PT-BR, mas os links/documentação podem estar em inglês (compartilhe se você possuir algo traduzido).
+Esse repositório foi construido para ajudar qualquer interessado pela área de Raspagem de dados, todo o repositório será em PT-BR, mas os links/documentação podem estar em inglês (compartilhe se você possuir algo traduzido).
 
 ## Instalação :floppy_disk:
 
@@ -12,11 +12,12 @@ As principais libs que vamos usar aqui são:
 * requests
 * bs4 (BeautifulSoup)
 * Scrapy
-* Jupyter Notebooks
  
 Para isso você só precisa instalar algumas bibliotecas, no seu Terminal escreva:
  
-`pip install jupyter requests bs4 scrapy` 
+```
+pip install requests bs4 scrapy
+```
  
 ### Jupyter notebooks
 
@@ -24,13 +25,13 @@ Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, v
 
 ## Trilha para o tutorial: :mortar_board:
 
-1. [Aprendendo a extrair o texto de um Site](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Aprendendo%20a%20extrair%20o%20texto%20de%20um%20Site.ipynb)
-2. [Primeira Spider](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Primeira%20Spider.ipynb) 
-3. [Raspagem múltipla](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Raspagem%20multipla.ipynb)
-4. [Navegando entre paginas](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Navegando%20entre%20paginas.ipynb)
-5. [Coletando mais detalhes](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Coletando%20mais%20detalhes.ipynb)
-6. [Raspagem em site com Infinite Scroll](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Raspagem%20em%20site%20com%20Infinite%20Scroll.ipynb)
-7. [Rodando Spider na nuvem](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Rodando%20Spider%20na%20nuvem.ipynb)
+1. [Aprendendo a extrair o texto de um Site](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Aprendendo%20a%20extrair%20o%20texto%20de%20um%20Site.md)
+2. [Primeira Spider](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Primeira%20Spider.md) 
+3. [Raspagem múltipla](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Raspagem%20multipla.md)
+4. [Navegando entre paginas](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Navegando%20entre%20paginas.md)
+5. [Coletando mais detalhes](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Coletando%20mais%20detalhes.md)
+6. [Raspagem em site com Infinite Scroll](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Raspagem%20em%20site%20com%20Infinite%20Scroll.md)
+7. [Rodando Spider na nuvem](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Rodando%20Spider%20na%20nuvem.md)
 
 ## Materiais de estudo: 
 
