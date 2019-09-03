@@ -54,3 +54,12 @@ Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, v
 * [Episódio 011: Bots Políticos](http://pizzadedados.com/episodio-011/) **[PT-BR]**
 
 #### Vídeos: :tv:
+* [Live de Python #20 - Selenium / Web scraping #1](https://www.youtube.com/watch?v=MlzCElmtrxQ) **[PT-BR]**
+* [Live de Python #21 Beautifulsoup / Web scraping #2](https://www.youtube.com/watch?v=kktO7IOjpgs) **[PT-BR]**
+* [Live de Python #22 Requests / Web scraping #3](https://www.youtube.com/watch?v=geGjMToK5u8) **[PT-BR]**
+* [Live de Python #23 DeepWeb/ Anonimidade / Web scraping #4](https://www.youtube.com/watch?v=rKcsV91YIio) **[PT-BR]**
+* [Live de Python #24 Tabelas e persistência / Web scraping #5](https://www.youtube.com/watch?v=7KCBFTeIpLI) **[PT-BR]**
+* [Live de Python #25 Raspando dados não HTML / Web scraping #6](https://www.youtube.com/watch?v=Pa4LT83osnY) **[PT-BR]**
+* [Live de Python #26 Scrapy / Web scraping #7 (Com artur Gaspar)](https://www.youtube.com/watch?v=rbiKXQSOWIM) **[PT-BR]**
+* [Live de Python #27 Baixando arquivos e manipulando datas / Web scraping #8)](https://www.youtube.com/watch?v=XuWyfTAC7Qs) **[PT-BR]**
+* [Live de Python #78 - Raspando a web com Scrapy - Com Renne Rocha](https://www.youtube.com/watch?v=5LMG4OCoEn0) **[PT-BR]**
