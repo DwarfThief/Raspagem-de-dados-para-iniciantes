@@ -1,4 +1,4 @@
-![](https://i.creativecommons.org/l/by/4.0/88x31.png)
+[![GitHub license](https://img.shields.io/github/license/DwarfThief/Raspagem-de-dados-para-iniciantes)](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/LICENSE)
 
 ![Visits Badge](https://badges.pufler.dev/visits/DwarfThief/Raspagem-de-dados-para-iniciantes)  [![Generic badge](https://img.shields.io/badge/Python-3.7-blue)](https://www.python.org/downloads/release/python-370/)
 
