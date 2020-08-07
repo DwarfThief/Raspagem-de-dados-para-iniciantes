@@ -1,5 +1,7 @@
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
+![Visits Badge](https://badges.pufler.dev/visits/DwarfThief/Raspagem-de-dados-para-iniciantes)  [![Generic badge](https://img.shields.io/badge/Python-3.7-blue)](https://www.python.org/downloads/release/python-370/)
+
 # Raspagem de dados para iniciantes :page_facing_up:
 
 Esse repositório foi construido para ajudar qualquer interessado pela área de Raspagem de dados, todo o repositório será em PT-BR, mas os links/documentação podem estar em inglês (compartilhe se você possuir algo traduzido).
