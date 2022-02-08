@@ -18,9 +18,28 @@ As principais libs que vamos usar aqui são:
 Para isso você só precisa instalar algumas bibliotecas, no seu Terminal escreva:
  
 ```
-pip install requests bs4 scrapy
+pip install -r requirements.txt
 ```
  
+ ### Recomendações
+
+ Use o ambiente virtual do Python para programar independente de plataforma.
+
+ * Criação:
+ ```
+python3 -m venv venv
+```
+
+ * Ativação (muda conforme S.O):
+ ```
+source venv/bin/activate
+```
+
+ * Dependências:
+ ```
+pip install -r requirements.txt
+```
+
 ### Jupyter notebooks
 
 Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, visite a [documentação](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html).
