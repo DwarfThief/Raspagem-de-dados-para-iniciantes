@@ -1,6 +1,6 @@
 [![GitHub license](https://img.shields.io/github/license/DwarfThief/Raspagem-de-dados-para-iniciantes)](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/LICENSE)
 
-![Visits Badge](https://badges.pufler.dev/visits/DwarfThief/Raspagem-de-dados-para-iniciantes)  [![Generic badge](https://img.shields.io/badge/Python-3.7-blue)](https://www.python.org/downloads/release/python-370/)
+[![Generic badge](https://img.shields.io/badge/Python-3.7-blue)](https://www.python.org/downloads/release/python-370/)
 
 # Raspagem de dados para iniciantes :page_facing_up:
 
@@ -11,32 +11,36 @@ Esse repositório foi construido para ajudar qualquer interessado pela área de 
 Uso Python versão 3.7
 
 As principais libs que vamos usar aqui são:
+
 * requests
 * bs4 (BeautifulSoup)
 * Scrapy
- 
+
 Para isso você só precisa instalar algumas bibliotecas, no seu Terminal escreva:
- 
-```
+
+```BASH
 pip install -r requirements.txt
 ```
- 
- ### Recomendações
 
- Use o ambiente virtual do Python para programar independente de plataforma.
+### Recomendações
 
- * Criação:
- ```
+Use o ambiente virtual do Python para programar independente de plataforma.
+
+* Criação:
+
+```BASH
 python3 -m venv venv
 ```
 
- * Ativação (muda conforme S.O):
- ```
+* Ativação (muda conforme S.O):
+
+```BASH
 source venv/bin/activate
 ```
 
- * Dependências:
- ```
+* Dependências:
+
+```BASH
 pip install -r requirements.txt
 ```
 
@@ -53,28 +57,34 @@ Iremos usar Jupyter notebooks aqui, então se você não tem com a ferramenta, v
 5. [Coletando mais detalhes](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Coletando%20mais%20detalhes.md)
 6. [Raspagem em site com Infinite Scroll](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Raspagem%20em%20site%20com%20Infinite%20Scroll.md)
 7. [Rodando Spider na nuvem](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Rodando%20Spider%20na%20nuvem.md)
+8. [Extração de imagens](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes/blob/master/Tutoriais/Extraindo_Imagens.md)
 
-## Materiais de estudo: 
+## Materiais de estudo:
 
-#### Blogs: :computer:
+### Blogs: :computer:
+
 * [The Scraping Hub](https://blog.scrapinghub.com/) **[ENG]**
 
-#### Livros: :books:
+### Livros: :books:
+
 * [Web Scraping with Python, Ryan Mitchell](http://shop.oreilly.com/product/0636920078067.do) **[ENG]**
 
-#### Documentação: :scroll:
+### Documentação: :scroll:
+
 * [Python](https://docs.python.org/3/) **[ENG]**
 * [Requests](http://docs.python-requests.org/en/master/) **[ENG]**
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) **[ENG]**
 * [Jupyter Notebooks](http://jupyter.org/documentation) **[ENG]**
 * [Scrapy](https://doc.scrapy.org/en/latest/intro/tutorial.html) **[ENG]**
 
-#### Podcasts: :headphones: :musical_note:
+### Podcasts: :headphones: :musical_note:
+
 * [Episódio 005: Serenata de Amor](http://pizzadedados.com/serenata-de-amor/) **[PT-BR]**
 * [Episódio 009: Sobre Crawlers e Scrapers](http://pizzadedados.com/episodio-009/) **[PT-BR]**
 * [Episódio 011: Bots Políticos](http://pizzadedados.com/episodio-011/) **[PT-BR]**
 
-#### Vídeos: :tv:
+### Vídeos: :tv:
+
 * [Live de Python #20 - Selenium / Web scraping #1](https://www.youtube.com/watch?v=MlzCElmtrxQ) **[PT-BR]**
 * [Live de Python #21 Beautifulsoup / Web scraping #2](https://www.youtube.com/watch?v=kktO7IOjpgs) **[PT-BR]**
 * [Live de Python #22 Requests / Web scraping #3](https://www.youtube.com/watch?v=geGjMToK5u8) **[PT-BR]**
