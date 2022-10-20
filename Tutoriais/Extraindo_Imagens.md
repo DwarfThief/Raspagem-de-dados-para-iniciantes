@@ -2,7 +2,7 @@
 
 # Extraindo Imagens
 
-O objetivo desse tutorial é ensinar o método de **extração** e **download** de imagens em sites. O script em Python não será utilizando spiders, mas simples [requisições HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Messages#:~:text=Requisi%C3%A7%C3%B5es%20HTTP%20s%C3%A3o%20mensagens%20enviadas,a%20a%C3%A7%C3%A3o%20a%20ser%20executada.).
+O objetivo desse tutorial é ensinar o método de **extração** e **download** de imagens em sites. O script em Python não será utilizando spiders, mas simples [requisições HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Messages#:~:text=Requisi%C3%A7%C3%B5es%20HTTP%20s%C3%A3o%20mensagens%20enviadas,a%20a%C3%A7%C3%A3o%20a%20ser%20executada.). O site escolhido foi o próprio GitHub.
 
 ---
 ## Encontrando a imagem desejada:
@@ -43,7 +43,7 @@ from bs4 import BeautifulSoup
 - Estabeleça uma conexão com o site desejado e puxe o conteúdo dele:
   
 ~~~Python
-response = requests.get('https://www.nytimes.com/international/') 
+response = requests.get('https://github.com/') 
 # Site base.
 
 content = response.content
@@ -64,7 +64,7 @@ site_html = BeautifulSoup(content, 'html.parser')
 - Agora, é necessário encontrar aquela tag que você procurou na etapa de inspecionar:
   - Tente: 
     ~~~Python
-    img = site_html.find('img', attrs={'alt':'Visitors to the ONX Studio in Manhattan with Ashley Zelinskie’s “Ring Nebula” (2022), a 3-D printed sculpture, during the exhibition “Unfolding the Universe.”'})
+    img = site_html.find('img', attrs={'class':'width-full height-auto js-globe-fallback-image'})
 
     link = img.attrs['src']
     ~~~
@@ -73,9 +73,11 @@ site_html = BeautifulSoup(content, 'html.parser')
     1. Caso dê erro, pode ser porque algum parâmetro foi escrito errado. Nesse caso, você pode tentar usar outro atributo da tag ou verificar todas as estruturas daquele tipo:
 
         ~~~Python
-        img = site_html.find('img', attrs={'alt':'Visitors to the ONX Studio in Manhattan with Ashley Zelinskie’s “Ring Nebula” (2022), a 3-D printed sculpture, during the exhibition “Unfolding the Universe.”'})
+        img = site_html.findAll('img', attrs={'class':'width-full height-auto js-globe-fallback-image'})
 
-        print(img.prettify())
+        print(img)
+        # ou print(img.prettify())
+
         ~~~
         <br>
 
@@ -83,11 +85,11 @@ site_html = BeautifulSoup(content, 'html.parser')
 
     2. Então use:
         ~~~Python
-        img = site_html.findAll('img', attrs={'alt':'Visitors to the ONX Studio in Manhattan with Ashley Zelinskie’s “Ring Nebula” (2022), a 3-D printed sculpture, during the exhibition “Unfolding the Universe.”'})
-        # Pela estrutura do site, sabe-se que há duas tags de imagem com o mesmo alt, mas somente a segunda contém o src com o link de imagem. Assim, deve-se extrair ambas e selecionar a que contém o src.
+       img = site_html.findAll('img', attrs={'class':'width-full height-auto js-globe-fallback-image'})
+        # Pela estrutura do site, sabe-se que há apenas uma tag de imagem com a mesma classe, mas caso houvesse mais de uma, seria necessário identificar qual a imagem desejada.
 
-        link = img[1].attrs['src']
-        # Puxa o atributo src encontrado na segunda tag.
+        link = img[0].attrs['src']
+        # Puxa o atributo src encontrado na primeira tag.
         ~~~
         <br><br>
 
@@ -101,6 +103,8 @@ urllib.request.urlretrieve(f'{link}', 'img.png')
 <br>
 
 ![](./resources/docs/11.png)<br><br>
+
+![](./resources/docs/img.png)<br><br>
 
 ---
 
